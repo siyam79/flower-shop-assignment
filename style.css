@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding
+
+}
+
+
+.pragrap{
+     font-size: 10px;
+    margin-top: 10px;
+    padding-top:5px;
+    
+    
+    
+}
+
+.img{
+    margin-top: 30px;
+    width: 200px;
+    padding:10px
+}
+
+.main{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(241, 212, 178);
+}
+.button{
+    height: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+     font-size:13px;
+    margin-top: 10px;
+    background-color: rgb(241, 77, 18);
+    border:none;
+    cursor: pointer; 
+}
+.button a{
+   text-decoration: none;
+}
+
+  
