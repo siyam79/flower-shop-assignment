@@ -124,3 +124,63 @@
     margin-top: 10px;
  }    
   
+ .logo{
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    justify-content: space-around;
+    background-color:gray;
+
+
+
+}
+.menu-item{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.logo1{
+    margin-left:120px;
+    height: 50px;
+    margin-top:18px;
+}
+.logo2{
+    margin-right:20px;
+    height: 50px;
+    margin-top:18px ;
+
+}
+.logo3{
+    margin-right:120px;
+    height: 50px;
+    margin-top:18px; 
+}
+.logo-cointan{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 13px;
+    margin-bottom:70px;
+    padding-top: 10px;
+    background-color: gray;
+
+    
+
+}
+.logo-cointan1{
+    
+    margin-left: 120px;
+    padding-bottom: 30px;
+   
+}
+.logo-cointan2{
+    margin-right:20px;
+    padding-bottom: 30px;
+
+
+}
+.logo-cointan3{
+    margin-right:120px;
+    padding-bottom: 30px;
+
+}
+
