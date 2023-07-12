@@ -231,6 +231,36 @@
     text-decoration: none;
 
 }
+.section-img{
+    width:220px;
+    height: 220px;
+    align-items: center;
+    margin-left: 70px;
+    padding-left:1px;
 
+}
+.section-title{
+    margin-top: 10px;
+    margin-left:260px;
+     padding:10px; 
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif; 
+
+  
+}
+.section-paragrap{
+     margin-right:300px;
+     font-size: 15px;    
+     margin-bottom: 15px; 
+    text-align:center; 
+}
+.section-img1{ 
+     margin-left: 80px;
+    width: 200px;
+    height: 200px;
+    padding-right: 30 px;
+    justify-content:space-around;
+    align-items: center;
+ }    
  
 
